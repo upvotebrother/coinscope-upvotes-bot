@@ -1,0 +1,1 @@
+# coinscope-upvotes-bot
